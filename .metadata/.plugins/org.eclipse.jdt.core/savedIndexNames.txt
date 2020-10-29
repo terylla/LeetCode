@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\Teru\Documents\Teru\Education\LeetCode\Challenges\.metadata\.plugins\org.eclipse.jdt.core
+858945635.index
+3645730914.index
