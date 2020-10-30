@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename source folder &apos;October/rotateRight&apos; to &apos;Rotate List&apos;&#x0D;&#x0A;- Original project: &apos;October&apos;&#x0D;&#x0A;- Original element: &apos;October/rotateRight&apos;&#x0D;&#x0A;- Renamed element: &apos;rotateRight&apos;" description="Rename source folder &apos;rotateRight&apos;" id="org.eclipse.jdt.ui.rename.source.folder" input="/rotateRight" name="Rotate List" stamp="1603999534412" version="1.0"/>
-</session>
