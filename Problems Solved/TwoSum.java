@@ -41,7 +41,7 @@ class Solution {
                 index[0] = i;
                 index[1] = map.get(diff);
               }
-          map.put(nums[i], i);  
+          map.put(nums[i], i);  // we need to return the positions of the elements, hence why the element itself is the key, and the its position is the value
         }
         return index;
     }
