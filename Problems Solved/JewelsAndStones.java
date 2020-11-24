@@ -22,14 +22,11 @@ class Solution {
     
       // let's use  public int indexOf(String str) method to return the character from S
         for (char i : S.toCharArray()){         
-          if (J.indexOf(i) > -1){ // indexOf  returns the  i from String S
+          if (J.indexOf(i) > -1){ // indexOf  returns the  i from String S ...and -1 every loop til there's no more char left
              count++;
             }
         }
     
-
-//         //put the charactesr in an array then return size of  that array?
-//         // OR return the characters that match and then count 
         
         return count;
     }
