@@ -1,5 +1,5 @@
 
-
+```
 class Solution {
     public int[] sortedSquares(int[] nums) {
       
@@ -12,3 +12,4 @@ class Solution {
         return nums;
     }
 }
+```
