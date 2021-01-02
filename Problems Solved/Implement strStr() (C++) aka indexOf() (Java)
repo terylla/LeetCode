@@ -30,7 +30,8 @@ Constraints:
 0 <= haystack.length, needle.length <= 5 * 104
 haystack and needle consist of only lower-case English characters.
 */
-```
+
+
 class Solution {
     public int strStr(String haystack, String needle) {
 //         if (needle == null || haystack == null) return 0;        
@@ -63,4 +64,3 @@ class Solution {
         return -1;
     }
 }
-```
